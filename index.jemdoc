@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Shishuai Hu
+
+~~~
+{}{img_left}{pic/cv_photo.png}{alt text}{160}{160}{https://ShishuaiHu.github.io/}
+PhD candidate @ School of Computer Science and Engineering, Northwestern Polytechnical University (NPU)\n
+Room 432, CS Building, NPU Chang’an Campus, Xi’an 710129, China \n
+
+E-mail: [sshu@mail.nwpu.edu.cn] \n
+[https://github.com/ShishuaiHu \[Github\]]
+[pdf/CV_Shishuai_Hu.pdf \[View CV\]]
+~~~
+
+== Biography
+I am currently a 1st-year PhD Student at the School of Computer Science and Engineering, Northwestern Polytechnical University (NPU), China,
+under the supervision of Prof. [https://teacher.nwpu.edu.cn/en/yongxia.html Yong Xia].
+
+My research interests mainly focus on deep learning techniques for medical image segmentation,
+with particular interests in domain adaptation/generalization.
+
+== Education
+- Ph.D., School of Computer Science and Engineering, Northwestern Polytechnical University (NPU), Xi’an, Shaanxi, China, Sep. 2020 -- Present
+- B.E., Honors College, Northwestern Polytechnical University (NPU), Xi’an, Shaanxi, China, Sep. 2016 -- Jun. 2020
+
+=== News
+
+- \[Jan 2021\]   Our Semi-supervised solution was nominated the honorable mention (1st place) of [https://covid-segmentation.grand-challenge.org/Final-Ranking COVID-19 Lung CT Lesion Segmentation Challenge]
